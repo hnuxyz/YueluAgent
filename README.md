@@ -7,7 +7,7 @@
 <a href="https://github.com/modelscope/ms-swift"><img src="https://img.shields.io/badge/ms%20swift-3.6-green"></a>
 </p>
 
-![](src\Fig\logo.png)
+![img2]([src\Fig\logo.png](https://github.com/hnuxyz/YueluAgent/blob/main/src/Fig/logo.png))
 
 ##  📖 目录
 
@@ -19,7 +19,7 @@
 ## 📝 简介
 麓言湘语是一个基于岳麓书院传统文化知识库构建的AI智能体，致力于岳麓书院传统文化的数字化传承与智能化解读。本项目依托于湖南大学[“书院文化传承微型智能体设计大赛”](https://mp.weixin.qq.com/s/A2yFtT2eLHnKpAJ0nrvVdg?scene=1&click_id=7)与上海AI Lab[书生·浦语第六期大模型实战营](https://aicarrier.feishu.cn/wiki/VC12w2b7IiyZXlkfuxzch8K6n8f)，基于InternLM3-8B模型进行LoRA plus微调，结合[ModelScope Swift](https://github.com/modelscope/ms-swift)全链框架优化，微调数据集通过ChatGPT-4o与DeepSeek生成并经人工精校。采用RAG增强检索技术，借助[阿里百炼大模型平台](https://bailian.console.aliyun.com/)Text-Embedding v4 API构建语义向量，精准链接湖南大学岳麓书院讲习团讲解词，实现知识的深度融合与动态响应。前端通过LangChain与Gradio搭建，实现用户友好交互体验，为传统文化注入现代智能解读力量。
 
-![](src\Fig\pipeline.png)
+![img1]([src\Fig\pipeline.png](https://github.com/hnuxyz/YueluAgent/blob/main/src/Fig/pipeline.png))
 
 ## 🛠️ 环境配置
 ### PEFT环境(ms-swift环境配置)
@@ -80,7 +80,7 @@ VS code运行YueLu_Agent.py
 - 在本地浏览器中输入127.0.0.1:7860（根据自己部署的情况修改）
 - 交互：
 
-![](src\Fig\UI.png)
+![img3]([src\Fig\UI.png](https://github.com/hnuxyz/YueluAgent/blob/main/src/Fig/UI.png))
 
 
 ## 🏛 License
