@@ -11,6 +11,8 @@
   <img src="https://github.com/hnuxyz/YueluAgent/blob/main/src/Fig/logo.png">
 </div>
 
+https://github.com/user-attachments/assets/e76f3f28-1f52-4f65-acf9-9980fe85bf0e
+
 ##  📖 目录
 
 - [简介](#-简介)
